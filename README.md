@@ -1,3 +1,7 @@
+> **⚠️ ARCHIVED:** This repository has been archived. Active development has moved to a private internal repository.
+
+---
+
 # Music Assistant frontend (Vue PWA)
 
 The Music Assistant frontend/panel is developed in Vue, development instructions below.
